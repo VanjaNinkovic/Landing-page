@@ -68,3 +68,60 @@ button {
     background-color: #1f2937;
     padding: 1em 13em;
 }
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+}
+
+.random-boys {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em
+}
+
+.example {
+    max-width: 300px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.cat {
+    height: 200px;
+    width: 200px;
+    border: 5px solid #3882f6;
+}
+
+.text {
+    text-align: center;
+    color: #1f2937;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.qoute {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: #e5e7eb;
+    padding: 4em 13em;
+}
+
+.qoute-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.signed {
+    font-weight: bold;
+    color: #1f2937;
+    font-size: 30px;
+    align-self: flex-end;
+}
