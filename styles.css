@@ -148,23 +148,23 @@ img {
     width: 100%;
 }
 
-.baction-background {
+.action-background {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 5em 13em;
 }
 
-.baction-header, .baction-text {
+.action-header, .action-text {
     margin: 0;
 }
 
-.baction-header {
+.action-header {
     font-weight: 700;
     font-size: 24px;
 }
 
-.baction-button {
+.action-button {
     border: 3px solid white;
     font-size: 18px;
     border-radius: 8px;
