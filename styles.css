@@ -74,13 +74,15 @@ h1 {
     font-weight: 900;
     color: #1f2937;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .random-boys {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2em
+    gap: 2em;
+    padding: 50px 0;
 }
 
 .example {
@@ -124,4 +126,14 @@ img {
     color: #1f2937;
     font-size: 30px;
     align-self: flex-end;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 1em;
+    color: #f9faf8;
+    font-weight: 500;
 }
